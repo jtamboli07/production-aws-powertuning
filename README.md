@@ -1,7 +1,7 @@
 ## Automated Lambda Power Tuning & Cost Optimization (Production-Ready Pattern)
 
 This repository implements a **repeatable, evidence-driven optimization workflow** for AWS Lambda workloads.  
-It measures the performance and cost trade-offs of different memory configurations, validates real traffic behavior, and applies the optimal configuration automatically — with optional governance.
+It measures the performance and cost trade-offs of different memory configurations, validates real traffic behavior, and applies the optimal configuration automatically with optional governance.
 <img width="2661" height="1404" alt="Lambda Auto Power Tuner (3)" src="https://github.com/user-attachments/assets/f957bd24-3835-43c3-895a-1c3e1d4d0fc3" />
 
 ---
